@@ -117,3 +117,6 @@
 Пример:
 [![альтернативный текст](https://sun9-38.userapi.com/c840123/v840123041/5a86d/y7p63AiaxGw.jpg)](https://sun9-19.userapi.com/s/v1/if2/zHYL8xbmAXuQyCOq8OH9Zg1FcTFTjD5-kUOno3Zq6Du5a9pXFM3VYTLiJmXhhZy3Nexu_gxDOKrI6iIFajK-I3JL.jpg?size=604x604&quality=95&type=album)
 
+## Заключение
+
+В данном туториале мы научились небольшой части языка разметки MarkDown. Также мы получили навыки по сливам веток, созданию и разрешению конфликтов. Работа была очень интересная, мне понравилось! :) Спасибо!
